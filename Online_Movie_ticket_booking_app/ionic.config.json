@@ -1,0 +1,7 @@
+{
+  "name": "Online_Movie_ticket_booking_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
